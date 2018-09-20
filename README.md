@@ -1,2 +1,2 @@
-# PennMed
-#Repository for proficiency exam
+# PennMed - Bioinformatics Specialist 
+Repository for proficiency exam
