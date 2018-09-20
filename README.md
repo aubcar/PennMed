@@ -3,7 +3,7 @@ Repository for proficiency exam
 
 Part 1
 
-Pm.py
+PM_unique_AA.py
 
 Execution
 Input needs to be in an extended bed file [chr,start,stop,geneid] at minimum, more columns after gene id are fine
@@ -12,7 +12,7 @@ output is to standard out but can be piped to an output file
 
 Useage 
 
-python pm.py input
+python PM_unique_AA.py [input bed file]
 
 Output
 
