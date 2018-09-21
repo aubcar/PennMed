@@ -19,5 +19,9 @@ Output
 Output is per Gene ID in input bed and the unique Amino acid changes 
 
 Part 2
+Requires user to imput in the primers being searched and a DNA fasta file.
+Outputs if primer 1/ primer 2 match in the sequence with up to 2 missmatches per primer.
+Outputs the variant region between the two primers. 
 
-
+Use case 
+python match.py [primer 1]  [primer 2] [fasta]
